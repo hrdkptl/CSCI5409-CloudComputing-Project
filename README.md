@@ -1,5 +1,5 @@
 # CSCI5409-CloudComputing-Project
-A group of the web applications developed as a part of academic team project for CSCI5409 Cloud Computing at Dalhousie University
+A group of the web applications developed as a part of an academic team project for CSCI5409 Cloud Computing at Dalhousie University
 
 Three web applications communicate through each other through APIs to perform CRUD operations on a managed relational database(AWS RDS) and NoSQL database (AWS DynamoDB).
 
